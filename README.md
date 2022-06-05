@@ -8,3 +8,4 @@
 pjstars/pjstars is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+There is a new programming code, called Week 2 Cheese programming. The user inputs the total number of cheese produced. The programming ouputs how much a cheese container can hold, the cost, and profit of producing certain amounts of cheese containers.   
