@@ -8,4 +8,5 @@
 pjstars/pjstars is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
+There is a new repository uploaded which is the Welcome to my local grocery cheese program. 
+The use inputs the total number of cheese produced. The programming output how much a cheese can hold, the cost, and profit of producing certain amounts of cheese containers.
